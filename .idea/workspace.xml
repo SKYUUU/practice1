@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d57a662e-f609-488b-97e7-36abd6e68fe5" name="Changes" comment="completed chapter7">
-      <change afterPath="$PROJECT_DIR$/src/example03/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example03/MonitorEx.java" afterDir="false" />
+    <list default="true" id="d57a662e-f609-488b-97e7-36abd6e68fe5" name="Changes" comment="Completed chapter7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example04/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example04/Time.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664953990605</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Completed chapter7">
+      <created>1664956554176</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664956554176</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,7 +110,8 @@
     <MESSAGE value="test1" />
     <MESSAGE value="test2" />
     <MESSAGE value="completed chapter7" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed chapter7" />
+    <MESSAGE value="Completed chapter7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed chapter7" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
