@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d57a662e-f609-488b-97e7-36abd6e68fe5" name="Changes" comment="Ongoing Chap10">
-      <change afterPath="$PROJECT_DIR$/src/example13/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example13/UserEx.java" afterDir="false" />
+    <list default="true" id="d57a662e-f609-488b-97e7-36abd6e68fe5" name="Changes" comment="Finished Chap10">
+      <change afterPath="$PROJECT_DIR$/src/example14/BlockEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example14/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example14/ProductEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665321698613</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Finished Chap10">
+      <created>1665456186163</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665456186163</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,7 +154,8 @@
     <MESSAGE value="Finished chapter7" />
     <MESSAGE value="Completed Chap09" />
     <MESSAGE value="Ongoing Chap10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ongoing Chap10" />
+    <MESSAGE value="Finished Chap10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Chap10" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
